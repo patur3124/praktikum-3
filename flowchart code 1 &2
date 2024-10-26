@@ -1,0 +1,18 @@
+tugas code1
+
+A = float(input("Input number A: "))
+B = float(input("Input number B: "))
+C = float(input("Input number C: "))
+
+# Determine the largest number
+
+code 2
+
+# Input the number of values to compare
+N = int(input("Input the number of values (N): "))
+
+# Initialize the maximum value as 0
+MAX = 0
+
+# Start the counter from 1
+i = 1
