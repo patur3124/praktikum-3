@@ -1,0 +1,5 @@
+Input N:
+The user is prompted to input how many numbers they want to compare (N).
+Initialize Variables:
+MAX = 0: This is where the largest number will be stored. Initially, it's set to 0.
+i = 1: A counter to track how many numbers have been input.
